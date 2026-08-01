@@ -1,4 +1,4 @@
-# Kaggle_Toxic-Comment-Classification-Challenge
+# Kaggle-Toxic-Comment-Classification-Challenge
 
 ## 竞赛链接
 [Jigsaw Toxic Comment Classification Challenge](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/overview)
